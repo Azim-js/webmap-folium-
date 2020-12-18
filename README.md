@@ -1,2 +1,2 @@
 # webmap-folium-
-Intersctive web maps using folium module in python!
+Interactive WEB MAPs using folium module in python!
